@@ -1,0 +1,155 @@
+body *{
+	padding:0px;
+	margin:0px;
+    font-family: 	Arial;
+}
+
+.wrapper {
+	width:960px;
+    height:1000px;
+    background-color:rgb(0,20,51);
+}
+
+.header {
+	width:925px;
+	height: 30px;
+    padding:15px;
+    display: inline-block;
+}
+
+.title {
+    color: whitesmoke;
+    font-family: Lucida Console;
+    display: inline-block;
+    
+}
+
+.subtitle {
+    color: blueviolet;
+    display: inline-block;
+    margin-left: 50px;
+    font-family: Lucida Console;
+}
+
+.about{
+    color: whitesmoke;
+    font-family: Lucida Console;
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.main {
+    background-color: whitesmoke;
+    width:940px;
+    height:925px;
+    margin: 10px;
+}
+
+.main_img {
+    width: 920px;
+    height: 400px;
+    margin: 10px;
+}
+
+.project-service-clients {
+    width: 290px;
+    height: 225px;
+    display: inline-block;
+    margin: 10px;
+    background-color: #4682B4;
+}
+
+.icon_img {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.info-title {
+    display: inline-block;
+    vertical-align: CENTER;
+    vertical-align: top;
+    margin-top: 5px;
+    color: whitesmoke;
+}
+
+.info-text {
+    margin: 5px;
+    color: whitesmoke;
+}
+
+.more-info {
+    background: linear-gradient(#00FFFF, #6495ED);
+	color:white;
+	border-radius: 3px;
+	padding:5px;
+	margin: 10px 100px;
+	font-weight: 600;
+}
+
+.additional-info {
+    width: 290px;
+    height: 200px;
+    display: inline-block;
+    margin: 10px;    
+    vertical-align: top;
+}
+
+.additional-title {
+    font-family: FreeMono;
+    font-weight: 100;
+}
+
+.building_img {
+    width: 285px;
+    height: 179px;
+
+}
+
+.additional-text {
+    font-size: small;
+}
+
+a {
+    text-decoration: none;
+}
+
+.comment {
+    height: 60px;
+    width: 228px;
+    background-color: lightblue;
+    font-size: small;
+    padding: 30px;
+    display: inline-block;
+}
+
+.cite {
+    font-size: small;
+    vertical-align: bottom;
+    margin-top: 35px;
+}
+
+.footer {
+    height: 34px;
+    background-color: lightblue;
+    border-top-color: lightslategray;
+    border-top-style: solid;
+    border-top-width: 3px;
+}
+
+.home-footer {
+    display: inline-block;
+    font-size: 10px;
+    color: #787878;
+    vertical-align: center;
+    margin-left: 325px;
+
+}
+
+.other-footer {
+    display: inline-block;
+    font-size: 10px;
+    color: #989898;
+    margin: 10px;
+}
